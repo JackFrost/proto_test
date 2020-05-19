@@ -1,0 +1,16 @@
+{
+    "name": "jackfrost/proto_test",
+    "description": "Description.",
+    "authors": [
+        {
+            "name": "Leonid Rasumov",
+            "email": "masdzen@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Natrium\\Diadoc\\": "src/"
+        }
+    }
+}
