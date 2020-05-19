@@ -1,12 +1,15 @@
 {
     "name": "jackfrost/proto_test",
     "description": "Description.",
+    "type": "library",
+    "license": "MIT",
     "authors": [
         {
             "name": "Leonid Rasumov",
             "email": "masdzen@gmail.com"
         }
     ],
+    "minimum-stability": "dev",
     "require": {},
     "autoload": {
         "psr-4": {
