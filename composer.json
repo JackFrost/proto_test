@@ -1,18 +1,11 @@
 {
     "name": "jackfrost/proto_test",
-    "description": "Description.",
-    "type": "library",
+    "type": "project",
     "license": "MIT",
-    "authors": [
-        {
-            "name": "Leonid Rasumov",
-            "email": "masdzen@gmail.com"
-        }
-    ],
-    "minimum-stability": "dev",
     "require": {},
     "autoload": {
         "psr-4": {
+            "": "gen",
             "Natrium\\Diadoc\\": "src/"
         }
     }
